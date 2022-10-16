@@ -1,27 +1,33 @@
 # Temporizador
-
-|Simulação Protheus|
+|Simulação Proteus|
 |:---------:|
-|![Esquematico](https://pbs.twimg.com/media/Er9DtMtXMAMdRAk.jpg)|
-|Fonte: Amel,Edgar,João,Joel e Vinicius|
+|![mage](![image](https://user-images.githubusercontent.com/109819480/196021373-26ba1cd0-6264-41e5-8234-6129e051b7c9.png)
+|Fonte: Amel,Edgar,João,Joel e Vinicius| 
+
 
 |Esquemático Easy EDA|
 |:---------:|
-|![Esquemático](https://www.ofutebolero.com.br/__export/1621615467339/sites/elfutboleromx/img/2021/05/21/rony-do-palmeiras-comemora-seu-gol-diante-do-independiente-del-valle-pela-libertadores-1619574802702_v2_1500x844.jpg_722153065.jpg) |
+|![mage](https://user-images.githubusercontent.com/109819480/196021013-82e0d81e-4f41-4d81-9cd8-17533f91fe39.png)
 |Fonte: Amel,Edgar,João,Joel e Vinicius| 
+
+|PCB|
+|:---------:|
+|![image](https://user-images.githubusercontent.com/109819480/196020634-1a2272e6-e4cb-456b-8697-785a46344852.png)|
+|Fonte: Amel,Edgar,João,Joel e Vinicius| 
+
 
 |Trilhas|
 |:---------:|
-|![](https://i.pinimg.com/474x/0f/6a/5a/0f6a5a9a98846f9b7d83207963778f12.jpg) |
+|![image](https://user-images.githubusercontent.com/109819480/196019699-cf7d462c-5e18-4b43-8f72-cf78183df0f1.png)|
 |Fonte: Amel,Edgar,João,Joel e Vinicius| 
 
 
 |PCI|
 |:---------:|
-|![Esquematico](https://i.pinimg.com/originals/77/5d/e8/775de83045239336903716eba9bc2f24.jpg) |
+|![image](https://user-images.githubusercontent.com/109819480/196020715-7105fb0d-cc9a-40a7-a746-e6864d84de24.png)|
 |Fonte: Amel,Edgar,João,Joel e Vinicius| 
 
 |Vista 3D|
 |:---------:|
-|![](![image](https://user-images.githubusercontent.com/109819480/194782718-81614ec7-cbb4-495b-8a14-78bfcd937f39.png)| 
+|![image](https://user-images.githubusercontent.com/109819480/196021060-16821558-215e-4e16-986f-6df179eea95e.png)| 
 |Fonte: Amel,Edgar,João,Joel e Vinicius| 
