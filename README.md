@@ -29,5 +29,5 @@
 
 |Protoboard|
 |:---------:|
-|![]() |
+![GIF](https://github.com/Jhony2006/Temporizador/blob/b38360f73d2e3be609911e04f3a5a1ba13fd5692/GIF/GIF.mp4)|
 |Fonte: Amel,Edgar,João,Joel e Vinicius| 
