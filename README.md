@@ -1,6 +1,6 @@
 # Temporizador
 
-## FOTOCÉLULA
+## MINUTERIA
 
 |Esquemático Protheus|
 |:---------:|
@@ -29,5 +29,5 @@
 
 |Protoboard|
 |:---------:|
-![GIF](https://github.com/Jhony2006/Temporizador/blob/b38360f73d2e3be609911e04f3a5a1ba13fd5692/GIF/GIF.mp4)|
+![GIF](https://github.com/Jhony2006/Temporizador/blob/ee891533b0b18c72cd46c6fdcf2235792df7f176/GIF.gif)|
 |Fonte: Amel,Edgar,João,Joel e Vinicius| 
