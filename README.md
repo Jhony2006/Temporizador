@@ -1,7 +1,7 @@
 # Temporizador
 |Simulação Proteus|
 |:---------:|
-|![mage](![image](https://user-images.githubusercontent.com/109819480/196021373-26ba1cd0-6264-41e5-8234-6129e051b7c9.png)
+|![image](https://user-images.githubusercontent.com/109819480/196021373-26ba1cd0-6264-41e5-8234-6129e051b7c9.png)
 |Fonte: Amel,Edgar,João,Joel e Vinicius| 
 
 
