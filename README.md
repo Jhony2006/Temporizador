@@ -29,5 +29,10 @@
 
 |Protoboard|
 |:---------:|
-![GIF](https://github.com/Jhony2006/Temporizador/blob/ee891533b0b18c72cd46c6fdcf2235792df7f176/GIF.gif)|
+|![GIF](https://github.com/Jhony2006/Temporizador/blob/ee891533b0b18c72cd46c6fdcf2235792df7f176/GIF.gif)|
+|Fonte: Amel,Edgar,João,Joel e Vinicius| 
+
+|Projeto Concluido|
+|:---------:|
+![Gif 30s](https://user-images.githubusercontent.com/111142585/198715464-6b90e7cc-2907-4f62-8ae8-5f3ad547b150.gif)
 |Fonte: Amel,Edgar,João,Joel e Vinicius| 
